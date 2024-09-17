@@ -1,5 +1,6 @@
 package Arrayskaushal;
 import java.util.Scanner;
+import java.util.Arrays;
 public class inputs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -16,24 +17,24 @@ public class inputs {
         System.out.println(a[3]);
         // internally this is how it's stored {23,24,25,26,27}
         //Using For loops.
-        for (int j : a) {
-            System.out.print(j + "\t");
-        }
-        int[] b = new int[5];
-        for (int i = 0; i < b.length; i++) {
-            b[i] = sc.nextInt();
-        }
-        for (int j : b) // This right here is called the advanced for loop.
-        {
-            System.out.print(j + "\t");
-        }
-        int[] c = new int[5];
-        for (int k : c) {
-            c[k] = sc.nextInt();
-        }
-        for (int k : c){
-            System.out.print(k + "\t");
-        }
+//        for (int j : a) {
+//            System.out.print(j + "\t");
+//        }
+//        int[] b = new int[5];
+//        for (int i = 0; i < b.length; i++) {
+//            b[i] = sc.nextInt();
+//        }
+//        for (int j : b) // This right here is called the advanced for loop.
+//        {
+//            System.out.print(j + "\t");
+//        }
+//        int[] c = new int[5];
+//        for (int k : c) {
+//            c[k] = sc.nextInt();
+//        }
+//        for (int k : c){
+//            System.out.print(k + "\t");
+//        }
         /*
         In Java, the enhanced for loop (also known as the "for-each" loop) is a simpler
         and more concise way to iterate over arrays or collections compared to using a traditional for loop.
@@ -52,5 +53,14 @@ If you need the index, you should use a traditional for loop.
 Iterable Requirements:
 The enhanced for loop can be used with any object that implements Iterable, which includes arrays and most collections like List, Set, and Queue.
          */
+
+       // System.out.println(a[5]); //index out of bound error.
+//        System.out.println(Arrays.toString(a));
+        // Array of Objects:
+        String[] fucker = new String[4];
+        for (int i = 0; i < fucker.length; i++) {
+            fucker[i] = sc.next();
+        }
+        System.out.println(Arrays.toString(fucker));
     }
 }
