@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edd4257b-b637-4e4d-a622-6d7ede35989f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="testing" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kaushalcollege&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kaushalcollege/EntireJavaJourney..git&quot;,
+    &quot;accountId&quot;: &quot;0fb23186-2406-41f8-a41d-a3c8b78c29c6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lNl5eGKf687MY6XkU9hWQAaUqO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CountingZeros.executor": "Run",
+    "Application.CountingZeros2.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.Salary.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.hsq.executor": "Run",
+    "Application.mulof3.executor": "Run",
+    "Application.p1.executor": "Run",
+    "Application.p2.executor": "Run",
+    "Application.p3.executor": "Run",
+    "Application.p4.executor": "Run",
+    "Application.p5.executor": "Run",
+    "Application.puneeth.executor": "Debug",
+    "Application.revnum.executor": "Run",
+    "Application.rex1.executor": "Run",
+    "Application.saturday.executor": "Run",
+    "Application.sumofodd.executor": "Run",
+    "Application.tandT.executor": "Run",
+    "Application.triangle.executor": "Run",
+    "Application.ttof.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "SS",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kaushalkento/Desktop/JavaHolidays/EntireJavaJourney./Product Training.",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/kaushalkento/Desktop/JavaHolidays/EntireJavaJourney./Recursion/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edd4257b-b637-4e4d-a622-6d7ede35989f" name="Changes" comment="" />
+      <created>1725028233612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725028233612</updated>
+      <workItem from="1725028234856" duration="7339000" />
+      <workItem from="1725079790349" duration="9688000" />
+      <workItem from="1726288530911" duration="10634000" />
+      <workItem from="1726474768753" duration="27000" />
+      <workItem from="1726893669998" duration="52000" />
+      <workItem from="1729311579289" duration="15000" />
+      <workItem from="1735881768440" duration="12000" />
+      <workItem from="1735963385840" duration="14000" />
+      <workItem from="1735965102232" duration="10000" />
+      <workItem from="1737174778518" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
