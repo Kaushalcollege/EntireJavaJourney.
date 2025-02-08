@@ -1,0 +1,28 @@
+Time Complexity:-
+
+Time Complexity is a concept in computer science, that quantifies the amount of time an algorithm takes
+to run as a function of length of its input.
+
+It provides an estimate of the number of the basic operations (such as comparisons, assignments,
+arithmetic operations, etc.) performed by the algorithm in relation to the size of the input data.
+
+timecomplexity = f(length of input).
+       y       = f(       x       ).
+
+Worst time complexity = Big 'O' notation. f --> O
+tc = O(length of input)
+
+For Linear Search -- :
+tc = O(N), where N = length of array/ no. of iterations across the array.
+
+For Binary Search -- :
+tc = O(logN), where N = length of array/ no. of iterations across the array.
+
+List:
+
+O(1) = Constant tc.
+O(N) = Linear tc. -- ex) only one loop.
+O(N^2) = Quadratic tc. -- ex) nested loops.
+O(logN) = Logarithmic tc. -- ex) Binary Search.
+O(10^N) = Exponential tc.
+O(N!) = Factorial tc.
