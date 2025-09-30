@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edd4257b-b637-4e4d-a622-6d7ede35989f" name="Changes" comment="This is good.">
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/CountofGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Dentist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Hashing/AllElementsAppearingMoreThanOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Hashing/CheckIfAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Hashing/CountFrequencyOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Hashing/FindFirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Hashing08032025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/HashingAssignment2/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/HashingAssignment2/Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/LargestDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/LinerSearchRevision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Quee/dsaq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/SeventeenthTerm1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Seventeenthterm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Sorting2/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/Sorting2/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/timecomplexity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/trees/InOrderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/trees/PostOrderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual2025/trees/PreOrderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/Arraylists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/MultiAL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/MultiDimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/inputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/passinginfuncs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/Arrayskaushal/problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysandArraylists./src/ColnoFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/src/OrderAgnosticArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/src/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/src/demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearSearch/src/ActualExecution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearSearch/src/ActualExecution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearSearch/src/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/CountofGreater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/Dentist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/LargestDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/LinerSearchRevision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/ParkingLot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/SeventeenthTerm1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/Seventeenthterm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Actual2025/timecomplexity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/LRU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/BP_9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/arrays/ABP_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/arrays/ABP_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/arrays/ABP_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/arrays/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/Revision2025_start/arrays/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/StringsinTrainings/problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/StringsinTrainings/problem2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/StringsinTrainings/problem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/StringsinTrainings/problem4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/StringsinTrainings/problem5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/FindthelargestDiff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/RotateArrayLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/RotateArrayRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/RotateArrayRight1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/arrayquestion1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/maxtripletsum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/patternarray1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/patternarray2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/prodofarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrayquestions/question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrays2d/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrays2d/magicsquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrays2d/ms2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrays2d/problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/arrays2d/problem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/CountingZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/CountingZeros2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/Salary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/breakstmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/continuestmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/mulof3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/printodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/puneeth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/revnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/rex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/sumofodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/basicstuff/yash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/hsq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/p3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/p4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/p5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/patterns/triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/problems/problem9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/separateqs/FaLo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/separateqs/FaLo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/separateqs/twosum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/separateqs/twosum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/whileloop/fbyf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/whileloop/tandT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/src/whileloop/ttof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/StarPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/divby5and11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/gradious1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/gradious1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/howtoinput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/inputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/pdtyp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/tenthplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/twosum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/understandingcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/understandingcode1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/voworcons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/kaushal/voworcons1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="S" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kaushalcollege&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kaushalcollege/EntireJavaJourney..git&quot;,
+    &quot;accountId&quot;: &quot;0fb23186-2406-41f8-a41d-a3c8b78c29c6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lNl5eGKf687MY6XkU9hWQAaUqO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ABP_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllpossibleSubStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BP_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingZeros2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountofGreater.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Dentist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DialogDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DictionaryExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FaLo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FaLo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindthelargestDiff.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GridLayoutDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InOrderDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JButtonDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JCheckBoxDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JScrollPaneDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinerSearchRevision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParkingLot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PostOrderDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowFunc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prefixarray01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayLeft.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArrayRight1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeventeenthTerm1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Seventeenthterm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicTacToe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayquestion1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.breakstmt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.continuestmt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dsaq1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hsq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.magicsquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ms2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mulof3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternarray1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patternarray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem14.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.problem15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.puneeth.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.revnum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.saturday.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumofodd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tandT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ttof.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twosum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twosum1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;SS&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kaushalkento/Desktop/JavaHolidays/EntireJavaJourney./GradiousTraining&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kaushalkento/Desktop/JavaHolidays/EntireJavaJourney./Recursion/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TicTacToe">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicstuff.Main" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actual2025.ParkingLot" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actual2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actual2025.Sorting2.QuickSort" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actual2025.Sorting2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actual2025.TestClass" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actual2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twosum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="separateqs.twosum1" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="separateqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.twosum1" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.ParkingLot" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edd4257b-b637-4e4d-a622-6d7ede35989f" name="Changes" comment="" />
+      <created>1725028233612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725028233612</updated>
+      <workItem from="1725028234856" duration="7339000" />
+      <workItem from="1725079790349" duration="9688000" />
+      <workItem from="1726288530911" duration="10634000" />
+      <workItem from="1726474768753" duration="27000" />
+      <workItem from="1726893722979" duration="1711000" />
+      <workItem from="1726896535662" duration="197000" />
+      <workItem from="1726896756035" duration="3715000" />
+      <workItem from="1726906157899" duration="4393000" />
+      <workItem from="1726932616604" duration="681000" />
+      <workItem from="1727500315398" duration="4555000" />
+      <workItem from="1727505982219" duration="7240000" />
+      <workItem from="1728371740357" duration="12000" />
+      <workItem from="1729311595255" duration="15313000" />
+      <workItem from="1729918308973" duration="11974000" />
+      <workItem from="1730179961096" duration="30000" />
+      <workItem from="1730186672213" duration="293000" />
+      <workItem from="1730524270337" duration="617000" />
+      <workItem from="1730524911201" duration="676000" />
+      <workItem from="1730536089830" duration="1488000" />
+      <workItem from="1730690125725" duration="339000" />
+      <workItem from="1730789833372" duration="1393000" />
+      <workItem from="1731127071638" duration="25000" />
+      <workItem from="1731130507956" duration="8736000" />
+      <workItem from="1731387920435" duration="13000" />
+      <workItem from="1731393462130" duration="51000" />
+      <workItem from="1731657677811" duration="3000" />
+      <workItem from="1731672467498" duration="1029000" />
+      <workItem from="1731679210996" duration="1263000" />
+      <workItem from="1732338755920" duration="7000" />
+      <workItem from="1735963400715" duration="1697000" />
+      <workItem from="1735965113149" duration="10158000" />
+      <workItem from="1735978197413" duration="6962000" />
+      <workItem from="1736852377645" duration="58000" />
+      <workItem from="1737174784338" duration="807000" />
+      <workItem from="1737175615748" duration="11229000" />
+      <workItem from="1738651599558" duration="1093000" />
+      <workItem from="1738652871412" duration="61000" />
+      <workItem from="1738986554276" duration="1904000" />
+      <workItem from="1738988501184" duration="3268000" />
+      <workItem from="1738995970211" duration="61000" />
+      <workItem from="1738996040666" duration="247000" />
+      <workItem from="1738996294762" duration="299000" />
+      <workItem from="1738996599945" duration="429000" />
+      <workItem from="1738997085197" duration="73000" />
+      <workItem from="1738997180177" duration="159000" />
+      <workItem from="1738997344452" duration="281000" />
+      <workItem from="1739000291904" duration="9221000" />
+      <workItem from="1739019862568" duration="1252000" />
+      <workItem from="1739450848448" duration="2000" />
+      <workItem from="1740198270132" duration="13807000" />
+      <workItem from="1740683431212" duration="2000" />
+      <workItem from="1740922505175" duration="36000" />
+      <workItem from="1741190302113" duration="6000" />
+      <workItem from="1741408306396" duration="1075000" />
+      <workItem from="1741409430435" duration="6176000" />
+      <workItem from="1741708692212" duration="10000" />
+      <workItem from="1742015912122" duration="7486000" />
+      <workItem from="1742051046611" duration="599000" />
+      <workItem from="1742895659768" duration="26000" />
+      <workItem from="1742895698292" duration="8000" />
+      <workItem from="1742895978768" duration="94000" />
+      <workItem from="1742913040339" duration="1768000" />
+      <workItem from="1744344222310" duration="104000" />
+      <workItem from="1744351111265" duration="1305000" />
+      <workItem from="1744414620168" duration="476000" />
+      <workItem from="1744415174403" duration="55000" />
+      <workItem from="1745038251283" duration="2254000" />
+      <workItem from="1745045137524" duration="1956000" />
+      <workItem from="1745293819092" duration="10000" />
+      <workItem from="1745315244696" duration="1812000" />
+      <workItem from="1745386221193" duration="194000" />
+      <workItem from="1745510718050" duration="790000" />
+      <workItem from="1746109859402" duration="121000" />
+      <workItem from="1746110021644" duration="1503000" />
+      <workItem from="1746115421603" duration="4323000" />
+      <workItem from="1746144390066" duration="202000" />
+      <workItem from="1746373594300" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="This is good.">
+      <option name="closed" value="true" />
+      <created>1738987788963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738987788963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is good." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is good." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basicstuff/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
